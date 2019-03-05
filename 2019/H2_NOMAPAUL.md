@@ -9,7 +9,7 @@ Nombre del Equipo: NOMAPAUL
 
 Proyecto: Hackers
 
-Resumen: En una escuela especializada de hackers e informática un grupo de alumnos se dan cuenta de la verdadera finaidad del lugar: los quieren formar para conseguir información de la única red social existente y utilizarla para fines malvados.
+Resumen: En una escuela especializada de hackers e informática un grupo de alumnos se dan cuenta de la verdadera finalidad del lugar: los quieren formar para conseguir información de la única red social existente y utilizarla para fines malvados.
 
 
 - Contexto: Mundo ficticio similar al actual. Distopía.
